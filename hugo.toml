@@ -1,5 +1,21 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://slides.homework.quest/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
 theme = ["github.com/dzello/reveal-hugo"]
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
+
+[reveal_hugo]
+custom_css = "custom.css"
+
+[params.reveal_hugo]
+custom_theme = "robot-lung-n.css"
+custom_theme_compile = true
+slide_number = true
