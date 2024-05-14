@@ -117,6 +117,12 @@ collatz function in python
 
 ---
 
+### The Problem
+
+General web access just gives the answers for intro programming tasks.
+
+---
+
 ### Solution #1
 
 Don't reuse problems.
@@ -163,11 +169,19 @@ Allowed:
  - Textbook
  - Official documentation
  
-Not allowed:
+ Not allowed:
 
  - Search engines
  - AI
  - Discussion / Q&A resources
+ - Personal devices
+
+---
+
+### Pretending it's 1990?
+
+"Kids these days can't remember stuff. They just let these new-fangled
+books do it for them."
 
 ---
 
@@ -175,6 +189,7 @@ Not allowed:
 
  - Assignments needed to be shortened to fit in lab block.
    - About half as long as old labs
+   - Still have homeworks - but tuned assuming web access
  - Requires active proctoring.
    - Took a couple weeks for students to believe "no Google"
 
@@ -187,6 +202,19 @@ Not allowed:
 
 ---
 
+### Downsides
+
+ - Assignments can't be as big.
+   - Not a problem for Intro
+   - More of an issue for DS / Intermediate
+ - Twice as many assignments to grade.
+   - Each half as big, still a bit more work.
+ - Need to make sure the resources provided
+   are sufficient.
+
+
+---
+
 ### Future
 
  - I had small classes, proctoring may be hard to scale.
@@ -194,6 +222,7 @@ Not allowed:
    - Having the lab computers (partially?) offline
    - Local resources only or only allowed resources
    - Might try that in the fall
+   - Need to deal with assignment submission
 
 ---
 
